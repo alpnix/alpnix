@@ -1,5 +1,5 @@
-<h1 style="text-align:center">Hi there 👋, I'm Alp</h1>
-<h3 style="text-align:center">Web Development and Machine Learning Enthusiast</h3>
+<h1 align="center" style="text-align:center">Hi there 👋, I'm Alp</h1>
+<h3 align="center" style="text-align:center">Web Development and Machine Learning Enthusiast</h3>
 <br>
 
 ### I'm an 11th grade student at Robert College.
