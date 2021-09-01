@@ -11,6 +11,6 @@
 
 ### Connect with me:
 
-[<img style="margin:5px 5px" alt="alpnix | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/alpniksarli)
-[<img style="margin:5px 5px" alt="Alp Niksarli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/"alp-niksarli-943a75206/)
-[<img style="margin:5px 5px" alt="alpniksarli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alpniksarli)
+[<img style="margin:5px 10px" alt="alpnix | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/alpniksarli)
+[<img style="margin:5px 10px" alt="Alp Niksarli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/"alp-niksarli-943a75206/)
+[<img style="margin:5px 15px" alt="alpniksarli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alpniksarli)
