@@ -10,6 +10,6 @@
 
 ### Connect with me:
 
-[<img align:"left" alt="alpnix | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/alpniksarli)
-[<img align:"center" alt="Alp Niksarli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/"alp-niksarli-943a75206/)
-[<img align:"right" alt="alpniksarli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alpniksarli)
+[<img alt="alpnix | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/alpniksarli)
+[<img alt="Alp Niksarli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/"alp-niksarli-943a75206/)
+[<img alt="alpniksarli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alpniksarli)
