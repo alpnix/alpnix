@@ -11,5 +11,5 @@
 ### Connect with me:
 
 [<img alt="alpnix | Kaggle" height="30px" width="98px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/alpniksarli)
-[<img alt="Alp Niksarli | LinkedIn" height="30px" width="124px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/"alp-niksarli-943a75206/)
+[<img alt="Alp Niksarli | LinkedIn" height="30px" width="124px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alpniksarli/)
 [<img alt="alpniksarli | Instagram" height="30px" width="137px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alpniksarli)
