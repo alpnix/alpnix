@@ -7,7 +7,7 @@
 ### I'm an 11th grade student at Robert College.
 
 - 🔭 I’m currently working on chatbot website project
-- 🌱 I’m currently learning Tensorflow, React, Django
+- 🌱 I’m currently learning Tensorflow and React
 - 👯 I’m looking to collaborate on a new project idea
 - 📫 How to reach me: [alp.niksarli@gmail.com](mailto:alp.niksarli@gmail.com)
 
