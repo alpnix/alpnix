@@ -41,7 +41,7 @@
 
 ### Connect with me:
 
-[<img alt="alpnix | Kaggle" height="30px" width="90px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/alpniksarli)
-[<img alt="Alp Niksarli | LinkedIn" height="30px" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alpniksarli/)
-[<img alt="alpniksarli | Instagram" height="30px" width="135px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alpniksarli)
-[<img alt="Alp Niksarli Portfolio" height="30px" width="135px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://alpnix.github.io/portfolio/)
+[<img alt="alpnix | Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/alpniksarli)
+[<img alt="Alp Niksarli | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alpniksarli/)
+[<img alt="alpniksarli | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alpniksarli)
+[<img alt="Alp Niksarli Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://alpnix.github.io/portfolio/)
