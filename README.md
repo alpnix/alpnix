@@ -15,8 +15,7 @@
 ### Skills & Languages 
 
 [<img alt="Python" height="30px" width="90px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://www.python.org/)
-[<img alt="JavaScript" height="30px" width="150px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-" />](https://www.javascript.com/)
+[<img alt="JavaScript" height="30px" width="150px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://www.javascript.com/)
 [<img alt="R" height="30px" width="15px" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />](https://www.r-project.org/)
 [<img alt="Go" height="30px" width="30px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />](https://go.dev/)
 
