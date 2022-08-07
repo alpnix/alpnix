@@ -1,5 +1,8 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpnix&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <h1 align="center" style="text-align:center">Hi there 👋, I'm Alp</h1>
 <h3 align="center" style="text-align:center">Web Development and Machine Learning Enthusiast</h3>
+
 
 ### I'm an 11th grade student at Robert College.
 
@@ -7,6 +10,14 @@
 - 🌱 I’m currently learning Tensorflow, React, Django
 - 👯 I’m looking to collaborate on a new project idea
 - 📫 How to reach me: [alp.niksarli@gmail.com](mailto:alp.niksarli@gmail.com)
+
+
+### Skills & Languages 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpnix&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 ### Connect with me:
 
