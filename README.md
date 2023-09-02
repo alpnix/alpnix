@@ -2,7 +2,7 @@
 <h3 align="center" style="text-align:center">Web Development and Data Science Enthusiast</h3>
 
 
-### I'm an 12th grade student in Robert College.
+### I'm an freshman in Davidson College.
 
 - 🔭 I’m currently working on chatbot website project
 - 🌱 I’m currently learning Tensorflow and React
