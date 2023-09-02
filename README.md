@@ -4,7 +4,7 @@
 
 ### I'm an freshman in Davidson College.
 
-- 🔭 I’m currently working on an innovative Chrome extension
+- 🔭 I’m currently working on an innovative browser extension
 - 🌱 I’m currently learning Tensorflow and React
 - 👯 I’m looking to collaborate on a new project idea
 - 📫 How to reach me: [alp.niksarli@gmail.com](mailto:alp.niksarli@gmail.com)
