@@ -2,7 +2,7 @@
 <h3 align="center" style="text-align:center">Web Development and Data Science Enthusiast</h3>
 
 
-### I'm a freshman in Davidson College.
+### I'm a sophomore in Davidson College.
 
 - 🔭 I’m currently working on an innovative browser extension
 - 🌱 I’m currently learning Tensorflow and React
