@@ -37,6 +37,6 @@
 
 [<img alt="Alp Niksarli Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://alpnix.github.io/portfolio/)
 [<img alt="Alp Niksarli | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alpniksarli/)
-[<img alt="Alp Niksarli | Google Scholar" src="https://img.shields.io/badge/googlescholar-#4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />](https://scholar.google.com/citations?user=Oj6Qr6YAAAAJ&hl=en)
+[<img alt="Alp Niksarli | Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />](https://scholar.google.com/citations?user=Oj6Qr6YAAAAJ&hl=en)
 [<img alt="alpnix | Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/alpniksarli)
 
