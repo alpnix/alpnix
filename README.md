@@ -1,5 +1,5 @@
 <h1 align="center" style="text-align:center">Hi there 👋, I'm Alp</h1>
-<h3 align="center" style="text-align:center">AI/ML Engineer && CS Student</h3>
+<h3 align="center" style="text-align:center">AI/ML Engineering Intern</h3>
 
 - 🌱 I previously worked on AI Infra at Amazon
 - 📍 I'm based in San Francisco
