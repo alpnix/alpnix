@@ -2,7 +2,6 @@
 <h3 align="center" style="text-align:center">AI/ML Engineering Intern</h3>
 
 - 🌱 I previously worked on AI Infra at Amazon
-- 📚 I study computer science and data science in Davidson College
 - 📍 I'm based in San Francisco
 - 👨‍💻 I'm building context, memory and orchetration applications for AI Agents
 - 🔭 I’m researching LLM Post-Training and ML Systems for Inference
